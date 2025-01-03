@@ -27,9 +27,9 @@ export default {
         name: 'keywords',
         content: trs.site.keywords
       },
-      { hid: 'og:site_name', property: 'og:site_name', content: trs.site.title },
+      { hid: 'og:site_name', property: 'og:site_name', content: '' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: trs.site.title },
+      { hid: 'og:url', property: 'og:url', content: trs.site.url },
       { hid: 'og:title', property: 'og:title', content: trs.site.title },
       {
         hid: 'og:description',
@@ -48,7 +48,7 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#fff' },
+  loading: { color: themes.light.primary },
   /*
    ** Global CSS
    */
@@ -59,7 +59,6 @@ export default {
   plugins: [
     { src: '@plugins/i18n' },
     { src: '@plugins/eventBus.js', mode: 'client' },
-    { src: '@plugins/analytics.js', mode: 'client' },
     { src: '@plugins/route.js', mode: 'client' }
   ],
   /*
@@ -82,6 +81,10 @@ export default {
         light: {
           primary: themes.light.primary,
           secondary: themes.light.secondary,
+          'title-text': themes.light['title-text'],
+          background: themes.light.background,
+          'category-background': themes.light['category-background'],
+          'btn-text': themes.light['btn-text'],
           accent: themes.light.accent,
           error: themes.light.error,
           warning: themes.light.warning,
@@ -91,6 +94,10 @@ export default {
         dark: {
           primary: themes.dark.primary,
           secondary: themes.dark.secondary,
+          'title-text': themes.dark['title-text'],
+          background: themes.dark.background,
+          'category-background': themes.dark['category-background'],
+          'btn-text': themes.dark['btn-text'],
           accent: themes.dark.accent,
           error: themes.dark.error,
           warning: themes.dark.warning,

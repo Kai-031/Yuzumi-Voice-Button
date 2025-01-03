@@ -58,39 +58,8 @@
       </v-btn>
     </v-speed-dial>
     <v-flex xs12 sm8 md6 style="min-width: 85%;">
-      <!-- 直播或者动态面板，不要取消注释，还没写功能 -->
-      <!--
-      <v-card :loading="lives_loading">
-        <v-card-title>
-          <v-icon class="primary--text" :class="dark_text" style="margin-right: 8px;">
-            {{ icons.clock_outline }}
-          </v-icon>
-          {{ $t('live.activity') }}
-        </v-card-title>
-        <SkeletonLoading :loading="lives_loading">
-          <v-card-text>
-            <div v-for="live in lives" :key="live.id">
-              <div v-if="live.title.length" :class="dark_text">
-                <span class="warning--text">{{ $t('live.on_air') }}</span>
-                <youtube-link :video-key="live.yt_video_key" :content="live.title" class="error--text" />
-              </div>
-            </div>
-            <div v-for="live in upcoming_lives" :key="live.id">
-              <div v-if="live.title.length" :class="dark_text">
-                <span>{{ $t('live.schedule') + format_time(live.live_schedule) }}</span>
-                <youtube-link :video-key="live.yt_video_key" :content="live.title" />
-              </div>
-            </div>
-            <div v-if="lives.length === 0 && upcoming_lives.length === 0">
-              <p>{{ lives_loading ? $t('live.loading') : $t('live.no_schedule') }}</p>
-            </div>
-            <div class="notification-board" v-html="$md.render($t('live.notification'))"></div>
-          </v-card-text>
-        </SkeletonLoading>
-      </v-card>
-      -->
       <!-- 对每个按钮组生成一个Card -->
-      <v-card v-for="group in groups" :key="group.name">
+      <v-card v-for="group in groups" :key="group.name" class="category-background">
         <v-card-title class="headline" :class="dark_text">
           {{ group.group_description[current_locale] }}
         </v-card-title>
@@ -200,8 +169,7 @@ export default {
     },
     voice_button_color() {
       return {
-        'light-blue darken-4': this.$vuetify.theme.dark,
-        'blue lighten-2 white--text': !this.$vuetify.theme.dark
+        'lighten-2 btn-text--text': !this.$vuetify.theme.dark
       };
     },
     fab_icon() {
@@ -306,14 +274,20 @@ export default {
         clearInterval(timer);
         timer = null;
       };
-      let audio = new Audio(this.voice_host + item.path);
+
+      let audioUrl = this.voice_host + item.path;
+      if (item.path.startsWith('https://')) {
+        audioUrl = item.path;
+      }
+
+      let audio = new Audio(audioUrl);
       audio.load(); //This could fix iOS playing bug
       if ('mediaSession' in navigator) {
         const metadata = {
           title: this.overlap ? this.$t('control.overlap_title') : item.description[this.current_locale],
           artist: this.$t('control.full_name'),
           album: this.$t('site.title'),
-          artwork: [{ src: '/img/media-cover.jpg', sizes: '128x128', type: 'image/jpeg' }]
+          artwork: [{ src: '/img/media-cover.png', sizes: '512x512', type: 'image/png' }]
         };
         navigator.mediaSession.metadata = new window.MediaMetadata(metadata);
         navigator.mediaSession.playbackState = 'playing';
