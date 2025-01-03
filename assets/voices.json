@@ -3,21 +3,21 @@
     {
       "group_name": "cry",
       "group_description": {
-        "zh": ""
+        "zh": "哭"
       },
       "voice_list": [
         {
           "name": "31be5d000325f1b160983faee1bdc990",
           "path": "cry/哭.mp3",
           "description": {
-            "zh": "哭 2"
+            "zh": "哭 1"
           }
         },
         {
           "name": "38eccd37012fec2d52226ca7fb5eff0a",
           "path": "cry/哭1.mp3",
           "description": {
-            "zh": "哭 1"
+            "zh": "哭 2"
           }
         },
         {
@@ -39,7 +39,7 @@
     {
       "group_name": "daily",
       "group_description": {
-        "zh": ""
+        "zh": "日常"
       },
       "voice_list": [
         {
@@ -215,7 +215,7 @@
     {
       "group_name": "fuck",
       "group_description": {
-        "zh": ""
+        "zh": "爆言"
       },
       "voice_list": [
         {
@@ -265,7 +265,7 @@
     {
       "group_name": "fuli",
       "group_description": {
-        "zh": ""
+        "zh": "福利"
       },
       "voice_list": [
         {
@@ -308,7 +308,7 @@
     {
       "group_name": "grandmother",
       "group_description": {
-        "zh": ""
+        "zh": "租嬤"
       },
       "voice_list": [
         {
@@ -337,7 +337,7 @@
     {
       "group_name": "madge",
       "group_description": {
-        "zh": ""
+        "zh": "罵倒"
       },
       "voice_list": [
         {
@@ -387,7 +387,7 @@
     {
       "group_name": "mahjong",
       "group_description": {
-        "zh": ""
+        "zh": "麻將語音包"
       },
       "voice_list": [
         {
@@ -444,7 +444,7 @@
     {
       "group_name": "mouthy",
       "group_description": {
-        "zh": ""
+        "zh": "嘴ㄆㄧㄚˊ"
       },
       "voice_list": [
         {
@@ -488,7 +488,7 @@
     {
       "group_name": "neo(n)",
       "group_description": {
-        "zh": ""
+        "zh": "同期"
       },
       "voice_list": [
         {
@@ -510,7 +510,7 @@
     {
       "group_name": "noise",
       "group_description": {
-        "zh": "意義不明的音效"
+        "zh": "小噪音"
       },
       "voice_list": [
         {
@@ -553,7 +553,7 @@
     {
       "group_name": "others",
       "group_description": {
-        "zh": ""
+        "zh": "其他"
       },
       "voice_list": [
         {
@@ -680,7 +680,7 @@
     {
       "group_name": "scum",
       "group_description": {
-        "zh": ""
+        "zh": "渣男"
       },
       "voice_list": [
         {
@@ -695,7 +695,7 @@
     {
       "group_name": "smile",
       "group_description": {
-        "zh": ""
+        "zh": "缺德笑"
       },
       "voice_list": [
         {
@@ -766,7 +766,7 @@
     {
       "group_name": "taiyi",
       "group_description": {
-        "zh": ""
+        "zh": "台語"
       },
       "voice_list": [
         {
@@ -802,7 +802,7 @@
     {
       "group_name": "tsumi",
       "group_description": {
-        "zh": ""
+        "zh": "粗咪"
       },
       "voice_list": [
         {
