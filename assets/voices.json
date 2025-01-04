@@ -71,6 +71,13 @@
           }
         },
         {
+          "name": "b9970b972400886cd2f894004c9756f8",
+          "path": "daily/你為甚麼不去柬埔寨工作_你根本就不在乎我(爆哭).mp3",
+          "description": {
+            "zh": "你為甚麼不去柬埔寨工作_你根本就不在乎我(爆哭)"
+          }
+        },
+        {
           "name": "329703b275cf93a31ff4067cdfd96244",
           "path": "daily/你管我_.mp3",
           "description": {
@@ -131,6 +138,13 @@
           "path": "daily/我說我不澀就和基拉力不吵一樣.mp3",
           "description": {
             "zh": "我說我不澀就和基拉力不吵一樣"
+          }
+        },
+        {
+          "name": "79f750fec90419b6c23f06b34779d201",
+          "path": "daily/早點睡覺_多喝熱水.mp3",
+          "description": {
+            "zh": "早點睡覺_多喝熱水"
           }
         },
         {
@@ -269,24 +283,10 @@
       },
       "voice_list": [
         {
-          "name": "1b450e7a4e5998a68654738c34638937",
-          "path": "fuli/好啦我也愛你們各位.mp3",
-          "description": {
-            "zh": "好啦我也愛你們各位"
-          }
-        },
-        {
           "name": "86f2ef1d1ac4902e27383334b46d37b5",
           "path": "fuli/好啦我也愛你們各位_Vocal.mp3",
           "description": {
             "zh": "好啦我也愛你們各位"
-          }
-        },
-        {
-          "name": "59a17024a43ca1735a03e427676a33ab",
-          "path": "fuli/新婚三問(日).mp3",
-          "description": {
-            "zh": "新婚三問(日)"
           }
         },
         {
@@ -504,6 +504,13 @@
           "description": {
             "zh": "煌括卡"
           }
+        },
+        {
+          "name": "99865fa400f5b8af7243669b100dab15",
+          "path": "neo(n)/阿雷.mp3",
+          "description": {
+            "zh": "阿雷"
+          }
         }
       ]
     },
@@ -613,6 +620,13 @@
           }
         },
         {
+          "name": "211a2eaf70cc25ecd42b8d2198f4127f",
+          "path": "others/我大奶.mp3",
+          "description": {
+            "zh": "我大奶"
+          }
+        },
+        {
           "name": "488dddf64eb1cc857ae8aa5088414cbd",
           "path": "others/我是第一名嗎(日).mp3",
           "description": {
@@ -699,13 +713,6 @@
       },
       "voice_list": [
         {
-          "name": "66008ff7ecc3ae3a0af76f1f33110868",
-          "path": "smile/Yuzumiww.mp3",
-          "description": {
-            "zh": "爆笑 8"
-          }
-        },
-        {
           "name": "9624a102cdda605ca2328ec35ca489f8",
           "path": "smile/爆笑1.mp3",
           "description": {
@@ -755,10 +762,17 @@
           }
         },
         {
-          "name": "59db5c8f785681ae2c58de8e05b2fe09",
-          "path": "smile/租咪興奮笑.mp3",
+          "name": "66008ff7ecc3ae3a0af76f1f33110868",
+          "path": "smile/爆笑8.mp3",
           "description": {
-            "zh": "爆笑 9"
+            "zh": "爆笑8"
+          }
+        },
+        {
+          "name": "59db5c8f785681ae2c58de8e05b2fe09",
+          "path": "smile/爆笑9.mp3",
+          "description": {
+            "zh": "爆笑9"
           }
         }
       ]
