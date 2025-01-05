@@ -92,13 +92,6 @@
           }
         },
         {
-          "name": "d16555381bd7e4636f29d2ef2085f74c",
-          "path": "daily/你這個豆皮渣男.mp3",
-          "description": {
-            "zh": "你這個豆皮渣男"
-          }
-        },
-        {
           "name": "167a985806c7f871f6a03823ca7e7058",
           "path": "daily/去工作臭狗.mp3",
           "description": {
@@ -258,6 +251,13 @@
           "path": "fuck/阿娘威.mp3",
           "description": {
             "zh": "阿娘威"
+          }
+        },
+        {
+          "name": "e49533401047d60a9477ea14e370bdc1",
+          "path": "fuck/阿西八盧馬-1.mp3",
+          "description": {
+            "zh": "阿西八盧馬-1"
           }
         },
         {
@@ -491,6 +491,13 @@
         "zh": "同期"
       },
       "voice_list": [
+        {
+          "name": "d16555381bd7e4636f29d2ef2085f74c",
+          "path": "neo(n)/你這個豆皮渣男.mp3",
+          "description": {
+            "zh": "你這個豆皮渣男"
+          }
+        },
         {
           "name": "b29ddf4889f0c32ebc879a304eaf7630",
           "path": "neo(n)/我竟然要說煌是我婆媽呀.mp3",
