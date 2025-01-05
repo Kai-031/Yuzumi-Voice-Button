@@ -6,7 +6,7 @@ on:
       - opened
 
 jobs:
-  automerge:
+  check:
     runs-on: ubuntu-latest
     steps:
       - name: Check
