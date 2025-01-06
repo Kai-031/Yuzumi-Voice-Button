@@ -66,6 +66,11 @@
         "icon": "/img/kirali-icon.svg",
         "title": "阿基按鈕",
         "to": "https://kirali-button.konnokai.me"
+      },
+      {
+        "icon": "/img/998-icon.svg",
+        "title": "玖玖巴按鈕",
+        "to": "https://998-button.konnokai.me"
       }
     ]
   }
