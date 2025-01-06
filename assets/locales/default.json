@@ -31,19 +31,41 @@
   "navigator": {
     "items": [
       {
-        "icon": "/img/twitter-fill.svg",
-        "title": "Twitter",
-        "to": "https://x.com/Yuzumi_Neon"
-      },
-      {
         "icon": "/img/youtube-fill.svg",
         "title": "YouTube",
         "to": "https://www.youtube.com/@橙Yuzumi"
       },
       {
-        "icon": "/img/twitch-fill.svg",
+        "icon": "/img/twitter-fill.svg",
+        "title": "Twitter",
+        "to": "https://x.com/Yuzumi_Neon"
+      },
+      {
+        "icon": "/img/twitch.svg",
         "title": "Twitch",
         "to": "https://www.twitch.tv/yuzumi_neon"
+      },
+      {
+        "icon": "/img/facebook.svg",
+        "title": "Facebook",
+        "to": "https://www.facebook.com/YuzumiNEOn"
+      },
+      {
+        "icon": "/img/instagram.svg",
+        "title": "Instagram",
+        "to": "https://www.instagram.com/yuzumi_neon"
+      }
+    ],
+    "anthorButton": [
+      {
+        "icon": "/img/rei-icon.svg",
+        "title": "小澪按鈕",
+        "to": "https://rei-button.konnokai.me"
+      },
+      {
+        "icon": "/img/kirali-icon.svg",
+        "title": "阿基按鈕",
+        "to": "https://kirali-button.konnokai.me"
       }
     ]
   }
