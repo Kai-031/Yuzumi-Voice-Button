@@ -71,13 +71,6 @@
           }
         },
         {
-          "name": "f11f3dfb43fc8edd6c5fca9329fa6fa2",
-          "path": "daily/你為甚麼不去柬埔寨工作_你根本就不在乎我(爆哭).mp3",
-          "description": {
-            "zh": "柬埔寨 2"
-          }
-        },
-        {
           "name": "ce018801fb803c0a9cab41e8b238c6bd",
           "path": "daily/你管我_.mp3",
           "description": {
@@ -103,13 +96,6 @@
           "path": "daily/去工作臭狗.mp3",
           "description": {
             "zh": "去工作臭狗"
-          }
-        },
-        {
-          "name": "6eecf15ea774736ed5c27ecbe0cb47b8",
-          "path": "daily/叫媽咪的全部都去柬埔寨工作哈.mp3",
-          "description": {
-            "zh": "柬埔寨 1"
           }
         },
         {
@@ -162,10 +148,31 @@
           }
         },
         {
+          "name": "6eecf15ea774736ed5c27ecbe0cb47b8",
+          "path": "daily/柬埔寨_1.mp3",
+          "description": {
+            "zh": "柬埔寨 1"
+          }
+        },
+        {
+          "name": "f11f3dfb43fc8edd6c5fca9329fa6fa2",
+          "path": "daily/柬埔寨_2.mp3",
+          "description": {
+            "zh": "柬埔寨 2"
+          }
+        },
+        {
+          "name": "a1f7d7da0c4dc90bab472b40e3a3e7de",
+          "path": "daily/柬埔寨_3.mp3",
+          "description": {
+            "zh": "柬埔寨 3"
+          }
+        },
+        {
           "name": "d970d1511ab6e3157fe27327f0177555",
           "path": "daily/柬埔寨_4.mp3",
           "description": {
-            "zh": "柬埔寨_4"
+            "zh": "柬埔寨 4"
           }
         },
         {
@@ -180,13 +187,6 @@
           "path": "daily/沒門~.mp3",
           "description": {
             "zh": "沒門"
-          }
-        },
-        {
-          "name": "968d526ba45a5c3c6da7727e0f53d9d0",
-          "path": "daily/洞八洞洞部隊起床.mp3",
-          "description": {
-            "zh": "部隊起床"
           }
         },
         {
@@ -225,17 +225,17 @@
           }
         },
         {
-          "name": "c599c497f5342c527c12711d750abae3",
-          "path": "daily/部隊起床_2.mp3",
+          "name": "968d526ba45a5c3c6da7727e0f53d9d0",
+          "path": "daily/部隊起床_1.mp3",
           "description": {
-            "zh": "部隊起床_2"
+            "zh": "部隊起床_1"
           }
         },
         {
-          "name": "a1f7d7da0c4dc90bab472b40e3a3e7de",
-          "path": "daily/飛機去柬埔寨工作到死.mp3",
+          "name": "c599c497f5342c527c12711d750abae3",
+          "path": "daily/部隊起床_2.mp3",
           "description": {
-            "zh": "柬埔寨 3"
+            "zh": "部隊起床 2"
           }
         }
       ]
