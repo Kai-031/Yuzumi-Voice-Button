@@ -10,28 +10,28 @@
           "name": "55495709d22ce40815e826b86eba153a",
           "path": "cry/哭.mp3",
           "description": {
-            "zh": "哭"
+            "zh": "哭1"
           }
         },
         {
           "name": "4791e7c4f862a4a68e0266862d51ec15",
           "path": "cry/哭1.mp3",
           "description": {
-            "zh": "哭1"
+            "zh": "哭2"
           }
         },
         {
           "name": "7e05247f2397cdd36d5ef0c98bbb3e50",
           "path": "cry/哭_哭阿.mp3",
           "description": {
-            "zh": "哭_哭阿"
+            "zh": "哭3"
           }
         },
         {
           "name": "fdcebcdc71696a6977e6bd0b0cff16bd",
           "path": "cry/開哭1_Vocal.mp3",
           "description": {
-            "zh": "開哭1_Vocal"
+            "zh": "哭4"
           }
         }
       ]
@@ -74,21 +74,21 @@
           "name": "f11f3dfb43fc8edd6c5fca9329fa6fa2",
           "path": "daily/你為甚麼不去柬埔寨工作_你根本就不在乎我(爆哭).mp3",
           "description": {
-            "zh": "你為甚麼不去柬埔寨工作_你根本就不在乎我(爆哭)"
+            "zh": "柬埔寨 2"
           }
         },
         {
           "name": "ce018801fb803c0a9cab41e8b238c6bd",
           "path": "daily/你管我_.mp3",
           "description": {
-            "zh": "你管我_"
+            "zh": "你管我"
           }
         },
         {
           "name": "dd16b58f37200de6b99896d10c2f05d5",
           "path": "daily/你管那麼多幹嘛_.mp3",
           "description": {
-            "zh": "你管那麼多幹嘛_"
+            "zh": "你管那麼多幹嘛"
           }
         },
         {
@@ -109,7 +109,7 @@
           "name": "6eecf15ea774736ed5c27ecbe0cb47b8",
           "path": "daily/叫媽咪的全部都去柬埔寨工作哈.mp3",
           "description": {
-            "zh": "叫媽咪的全部都去柬埔寨工作哈"
+            "zh": "柬埔寨 1"
           }
         },
         {
@@ -137,7 +137,7 @@
           "name": "72fb6ddcda935da1748af49fb4b592c4",
           "path": "daily/我很可愛請給我錢.mp3",
           "description": {
-            "zh": "我很可愛請給我錢"
+            "zh": "請給我錢"
           }
         },
         {
@@ -151,7 +151,7 @@
           "name": "88bbf65fa8275d647bf6958698f8dcca",
           "path": "daily/早點睡覺_多喝熱水.mp3",
           "description": {
-            "zh": "早點睡覺_多喝熱水"
+            "zh": "早點睡覺 多喝熱水"
           }
         },
         {
@@ -159,6 +159,13 @@
           "path": "daily/柚柚班讓一下.mp3",
           "description": {
             "zh": "柚柚班讓一下"
+          }
+        },
+        {
+          "name": "d970d1511ab6e3157fe27327f0177555",
+          "path": "daily/柬埔寨_4.mp3",
+          "description": {
+            "zh": "柬埔寨_4"
           }
         },
         {
@@ -172,21 +179,21 @@
           "name": "2651fbf815ba4b84e1f52c288812efe5",
           "path": "daily/沒門~.mp3",
           "description": {
-            "zh": "沒門~"
+            "zh": "沒門"
           }
         },
         {
           "name": "968d526ba45a5c3c6da7727e0f53d9d0",
           "path": "daily/洞八洞洞部隊起床.mp3",
           "description": {
-            "zh": "洞八洞洞部隊起床"
+            "zh": "部隊起床"
           }
         },
         {
           "name": "c2903d944c51af730ac1588ddb263423",
           "path": "daily/肚子好餓不想出門.mp3",
           "description": {
-            "zh": "肚子好餓不想出門"
+            "zh": "不想出門"
           }
         },
         {
@@ -200,7 +207,7 @@
           "name": "63ea1b1bfc10836b602a1a95f7303174",
           "path": "daily/要你管!.mp3",
           "description": {
-            "zh": "要你管!"
+            "zh": "要你管"
           }
         },
         {
@@ -218,17 +225,17 @@
           }
         },
         {
-          "name": "c83a8f52dfd689471a96f8edd5a437e3",
-          "path": "daily/需要一點boba.mp3",
+          "name": "c599c497f5342c527c12711d750abae3",
+          "path": "daily/部隊起床_2.mp3",
           "description": {
-            "zh": "需要一點boba"
+            "zh": "部隊起床_2"
           }
         },
         {
           "name": "a1f7d7da0c4dc90bab472b40e3a3e7de",
           "path": "daily/飛機去柬埔寨工作到死.mp3",
           "description": {
-            "zh": "飛機去柬埔寨工作到死"
+            "zh": "柬埔寨 3"
           }
         }
       ]
@@ -243,7 +250,7 @@
           "name": "997cfaf2c78a24609876c7a882cd8d5a",
           "path": "fuck/嗯啊!.mp3",
           "description": {
-            "zh": "嗯啊!"
+            "zh": "嗯啊"
           }
         },
         {
@@ -257,14 +264,14 @@
           "name": "c595e9ba92b307350c2832e0ca55e791",
           "path": "fuck/洗勒COW.mp3",
           "description": {
-            "zh": "洗勒COW"
+            "zh": "洗勒考"
           }
         },
         {
           "name": "758e7612f5e0880291276edbf65ce8fa",
           "path": "fuck/煩啦!.mp3",
           "description": {
-            "zh": "煩啦!"
+            "zh": "煩啦"
           }
         },
         {
@@ -285,7 +292,14 @@
           "name": "19f8812b8dc3ab3da31a5c505cb34933",
           "path": "fuck/阿西八盧馬.mp3",
           "description": {
-            "zh": "阿西八盧馬"
+            "zh": "阿西巴嚕嘛"
+          }
+        },
+        {
+          "name": "c83a8f52dfd689471a96f8edd5a437e3",
+          "path": "fuck/需要一點boba.mp3",
+          "description": {
+            "zh": "需要一點boba"
           }
         },
         {
@@ -314,7 +328,7 @@
           "name": "4319676ed29be9e44fdaef1274254f20",
           "path": "fuli/好啦我也愛你們各位_Vocal.mp3",
           "description": {
-            "zh": "好啦我也愛你們各位_Vocal"
+            "zh": "好啦我也愛你們各位"
           }
         },
         {
@@ -335,7 +349,7 @@
           "name": "5f01749a3cc1a66b1d3675a1340c124a",
           "path": "fuli/笨蛋吵什麼不要吵(日文).mp3",
           "description": {
-            "zh": "笨蛋吵什麼不要吵(日文)"
+            "zh": "笨蛋吵什麼不要吵(日)"
           }
         }
       ]
@@ -350,21 +364,21 @@
           "name": "29bd741d2893b546fbe8c29708250989",
           "path": "grandmother/拍謝阿嬤骨頭謀後_Vocal.mp3",
           "description": {
-            "zh": "拍謝阿嬤骨頭謀後_Vocal"
+            "zh": "拍謝阿嬤骨頭謀後"
           }
         },
         {
           "name": "04edc86496e71cfcb299f37a682e9bcd",
           "path": "grandmother/阿嬤中午咩假沙阿嬤中午請你吃_Vocal.mp3",
           "description": {
-            "zh": "阿嬤中午咩假沙阿嬤中午請你吃_Vocal"
+            "zh": "中午咩假沙阿嬤中午請你吃"
           }
         },
         {
           "name": "a7a5cd329f1f5c0b8597d83bb259fe50",
           "path": "grandmother/阿嬤嘴巴閉不起來啦_Vocal.mp3",
           "description": {
-            "zh": "阿嬤嘴巴閉不起來啦_Vocal"
+            "zh": "阿嬤嘴巴閉不起來啦"
           }
         }
       ]
@@ -414,7 +428,7 @@
           "name": "a72b0e184219841a008b469c0465b8bc",
           "path": "madge/真的很噁心.mp3",
           "description": {
-            "zh": "真的很噁心"
+            "zh": "真的很噁心(日)"
           }
         }
       ]
@@ -443,7 +457,7 @@
           "name": "55d3278d667d34ce43f22db10d8061ec",
           "path": "mahjong/榮!給私喵.mp3",
           "description": {
-            "zh": "榮!給私喵"
+            "zh": "榮 給私喵"
           }
         },
         {
@@ -486,7 +500,7 @@
           "name": "8df237e73aeb22c4185a9002c6ac92f5",
           "path": "mouthy/橫奪刀愛_Vocal.mp3",
           "description": {
-            "zh": "橫奪刀愛_Vocal"
+            "zh": "橫奪刀愛"
           }
         }
       ]
@@ -515,7 +529,7 @@
           "name": "c58038dafa454e84b54ea22de8e89662",
           "path": "mygo/真是高高在上呢_Vocal.mp3",
           "description": {
-            "zh": "真是高高在上呢_Vocal"
+            "zh": "真是高高在上呢"
           }
         }
       ]
@@ -530,21 +544,21 @@
           "name": "28fa54670150a81cd79315344885f32f",
           "path": "neo(n)/你這個豆皮渣男.mp3",
           "description": {
-            "zh": "你這個豆皮渣男"
+            "zh": "豆皮渣男"
           }
         },
         {
           "name": "217b86a2dc6818fc3bed1e2ab3b9fb0c",
           "path": "neo(n)/我竟然要說煌是我婆媽呀.mp3",
           "description": {
-            "zh": "我竟然要說煌是我婆媽呀"
+            "zh": "我竟然要說煌是我婆 媽呀"
           }
         },
         {
           "name": "453d1c130b555740f1be903506364261",
           "path": "neo(n)/煌括卡_Vocal.mp3",
           "description": {
-            "zh": "煌括卡_Vocal"
+            "zh": "煌括卡"
           }
         },
         {
@@ -573,14 +587,14 @@
           "name": "1dd101fcd95d966b467c51980ae3ce55",
           "path": "noise/吼唷_1.mp3",
           "description": {
-            "zh": "吼唷_1"
+            "zh": "吼唷 1"
           }
         },
         {
           "name": "f549b38d675a46e277663b730a4f0282",
           "path": "noise/吼唷_2.mp3",
           "description": {
-            "zh": "吼唷_2"
+            "zh": "吼唷 2"
           }
         },
         {
@@ -629,7 +643,7 @@
           "name": "f6b43be8f5548f1928f33fbe59a0a495",
           "path": "noise/牙_.mp3",
           "description": {
-            "zh": "牙_"
+            "zh": "牙"
           }
         },
         {
@@ -637,6 +651,13 @@
           "path": "noise/牙牙學語.mp3",
           "description": {
             "zh": "牙牙學語"
+          }
+        },
+        {
+          "name": "31cf29085f4389fb1b105c63502ec28e",
+          "path": "noise/超渡.mp3",
+          "description": {
+            "zh": "超渡"
           }
         }
       ]
@@ -651,7 +672,7 @@
           "name": "23da43e864b10a99fe03952cec4ca002",
           "path": "others/Come_on.mp3",
           "description": {
-            "zh": "Come_on"
+            "zh": "Come on"
           }
         },
         {
@@ -679,21 +700,7 @@
           "name": "21b87bee4e529b601370ad5fdd243593",
           "path": "others/別想了聊天室_好色喔_難不成還想要我脫衣服嗎_門都沒有.mp3",
           "description": {
-            "zh": "別想了聊天室_好色喔_難不成還想要我脫衣服嗎_門都沒有"
-          }
-        },
-        {
-          "name": "c7cfef777e9777d3b82411d44b5d6d07",
-          "path": "others/別擔心寶貝.mp3",
-          "description": {
-            "zh": "別擔心寶貝"
-          }
-        },
-        {
-          "name": "23aea1e31d3bd0281b6a859fad674335",
-          "path": "others/哎呀_臉紅啦.mp3",
-          "description": {
-            "zh": "哎呀_臉紅啦"
+            "zh": "別想了聊天室 好色喔 難不成還想要我脫衣服嗎 門都沒有"
           }
         },
         {
@@ -718,31 +725,10 @@
           }
         },
         {
-          "name": "2b8e5c017141a27a7371c61e97206670",
-          "path": "others/寶貝他好滑啊寶貝.mp3",
+          "name": "8ecdb83cfa94bc21d2ced41b6eea57b3",
+          "path": "others/帽子給我好嗎.mp3",
           "description": {
-            "zh": "寶貝他好滑啊寶貝"
-          }
-        },
-        {
-          "name": "8f227906224177e073280b4256079af8",
-          "path": "others/寶貝怎麼啦.mp3",
-          "description": {
-            "zh": "寶貝怎麼啦"
-          }
-        },
-        {
-          "name": "f7e9bc3c1b69d0cf12d4d282b66384e8",
-          "path": "others/快想想辦法寶貝.mp3",
-          "description": {
-            "zh": "快想想辦法寶貝"
-          }
-        },
-        {
-          "name": "ba0df5f8910210b1aa109ca601c2be26",
-          "path": "others/怎麼樣啊寶貝.mp3",
-          "description": {
-            "zh": "怎麼樣啊寶貝"
+            "zh": "帽子給我好嗎"
           }
         },
         {
@@ -763,14 +749,14 @@
           "name": "68f99b9974bd1846ee6407de6df39f8b",
           "path": "others/租咪討厭拉真是的呆笑.mp3",
           "description": {
-            "zh": "租咪討厭拉真是的呆笑"
+            "zh": "討厭拉真是的"
           }
         },
         {
           "name": "bbce13302eff5cd51935882859efbfb3",
           "path": "others/等等_這個不妙(日).mp3",
           "description": {
-            "zh": "等等_這個不妙(日)"
+            "zh": "等等 這個不妙(日)"
           }
         },
         {
@@ -795,20 +781,6 @@
           }
         },
         {
-          "name": "31cf29085f4389fb1b105c63502ec28e",
-          "path": "others/超渡.mp3",
-          "description": {
-            "zh": "超渡"
-          }
-        },
-        {
-          "name": "65f12ebfd7fcf889771f5ce90c578d25",
-          "path": "others/那確實唉寶貝.mp3",
-          "description": {
-            "zh": "那確實唉寶貝"
-          }
-        },
-        {
           "name": "3621b1c50b78a6f74fe6aa1987741cab",
           "path": "others/醒醒不要在暈了醒醒.mp3",
           "description": {
@@ -824,10 +796,59 @@
       },
       "voice_list": [
         {
+          "name": "c7cfef777e9777d3b82411d44b5d6d07",
+          "path": "scum/別擔心寶貝.mp3",
+          "description": {
+            "zh": "別擔心寶貝"
+          }
+        },
+        {
+          "name": "23aea1e31d3bd0281b6a859fad674335",
+          "path": "scum/哎呀_臉紅啦.mp3",
+          "description": {
+            "zh": "哎呀 臉紅啦"
+          }
+        },
+        {
+          "name": "2b8e5c017141a27a7371c61e97206670",
+          "path": "scum/寶貝他好滑啊寶貝.mp3",
+          "description": {
+            "zh": "寶貝他好滑啊寶貝"
+          }
+        },
+        {
+          "name": "8f227906224177e073280b4256079af8",
+          "path": "scum/寶貝怎麼啦.mp3",
+          "description": {
+            "zh": "寶貝怎麼啦"
+          }
+        },
+        {
+          "name": "f7e9bc3c1b69d0cf12d4d282b66384e8",
+          "path": "scum/快想想辦法寶貝.mp3",
+          "description": {
+            "zh": "快想想辦法寶貝"
+          }
+        },
+        {
+          "name": "ba0df5f8910210b1aa109ca601c2be26",
+          "path": "scum/怎麼樣啊寶貝.mp3",
+          "description": {
+            "zh": "怎麼樣啊寶貝"
+          }
+        },
+        {
           "name": "a779a64105deab70246cc425b95d9858",
           "path": "scum/每個寶貝都是唯一的.mp3",
           "description": {
             "zh": "每個寶貝都是唯一的"
+          }
+        },
+        {
+          "name": "65f12ebfd7fcf889771f5ce90c578d25",
+          "path": "scum/那確實唉寶貝.mp3",
+          "description": {
+            "zh": "那確實唉寶貝"
           }
         }
       ]
@@ -884,7 +905,7 @@
           "name": "7db7485c48ce025124ed7a0f9143963e",
           "path": "smile/爆笑7mp3.mp3",
           "description": {
-            "zh": "爆笑7mp3"
+            "zh": "爆笑7"
           }
         },
         {
@@ -934,7 +955,7 @@
           "name": "2be44b227de3148e3d8c115a5cdedec0",
           "path": "taiyi/麻麻眨摳.mp3",
           "description": {
-            "zh": "麻麻眨摳"
+            "zh": "麻麻砸摳"
           }
         }
       ]
@@ -963,7 +984,7 @@
           "name": "4230ee346cdc667b4b59ad40720958a3",
           "path": "tsumi/校連欸咩拎謀.mp3",
           "description": {
-            "zh": "校連欸咩拎謀"
+            "zh": "笑連欸咩拎謀"
           }
         }
       ]
