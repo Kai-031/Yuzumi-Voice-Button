@@ -120,6 +120,13 @@
           }
         },
         {
+          "name": "f168fc510fe21c3485479b0036bddfa8",
+          "path": "daily/我住山裡.mp3",
+          "description": {
+            "zh": "我住山裡"
+          }
+        },
+        {
           "name": "72fb6ddcda935da1748af49fb4b592c4",
           "path": "daily/我很可愛請給我錢.mp3",
           "description": {
@@ -228,7 +235,7 @@
           "name": "968d526ba45a5c3c6da7727e0f53d9d0",
           "path": "daily/部隊起床_1.mp3",
           "description": {
-            "zh": "部隊起床_1"
+            "zh": "部隊起床 1"
           }
         },
         {
@@ -236,6 +243,13 @@
           "path": "daily/部隊起床_2.mp3",
           "description": {
             "zh": "部隊起床 2"
+          }
+        },
+        {
+          "name": "beed28174189676a6c05078b2e1b8959",
+          "path": "daily/點不到外送.mp3",
+          "description": {
+            "zh": "點不到外送"
           }
         }
       ]
@@ -340,16 +354,37 @@
         },
         {
           "name": "bcc1b8f253b39795c0f790df4ba1530e",
-          "path": "fuli/新婚三問.mp3",
+          "path": "fuli/新婚三問(日).mp3",
           "description": {
-            "zh": "新婚三問"
+            "zh": "新婚三問(日)"
           }
         },
         {
-          "name": "5f01749a3cc1a66b1d3675a1340c124a",
+          "name": "1448193fd9abac7023f28aa49f8d87d0",
+          "path": "fuli/租咪飛吻.mp3",
+          "description": {
+            "zh": "租咪飛吻"
+          }
+        },
+        {
+          "name": "6bd428321f7b08d7d6a5a0b4935e3d7f",
           "path": "fuli/笨蛋吵什麼不要吵(日文).mp3",
           "description": {
             "zh": "笨蛋吵什麼不要吵(日)"
+          }
+        },
+        {
+          "name": "cf291e0977f96fcc75ceabc9551ead3d",
+          "path": "fuli/老公天下第一.mp3",
+          "description": {
+            "zh": "老公天下第一"
+          }
+        },
+        {
+          "name": "f249e6db6e6d4e27ffd25dd1b4866e4d",
+          "path": "fuli/謝謝你那麼用心寶貝.mp3",
+          "description": {
+            "zh": "謝謝你那麼用心寶貝"
           }
         }
       ]
@@ -519,6 +554,13 @@
           }
         },
         {
+          "name": "3eaf151efc40574e568b806120c1cf31",
+          "path": "mygo/是時候一起大便了.mp3",
+          "description": {
+            "zh": "是時候一起大便了"
+          }
+        },
+        {
           "name": "712b617b6e8ef2c5309ae6dd46d24af9",
           "path": "mygo/真是有趣的女人.mp3",
           "description": {
@@ -552,6 +594,13 @@
           "path": "neo(n)/我竟然要說煌是我婆媽呀.mp3",
           "description": {
             "zh": "我竟然要說煌是我婆 媽呀"
+          }
+        },
+        {
+          "name": "d8af42df1a7d72996ccef5febc1edcea",
+          "path": "neo(n)/永支小煌.mp3",
+          "description": {
+            "zh": "永支小煌"
           }
         },
         {
@@ -725,7 +774,7 @@
           }
         },
         {
-          "name": "8ecdb83cfa94bc21d2ced41b6eea57b3",
+          "name": "9292e7acb3e0490f001953d39e84bcd1",
           "path": "others/帽子給我好嗎.mp3",
           "description": {
             "zh": "帽子給我好嗎"
@@ -795,6 +844,13 @@
         "zh": "渣男"
       },
       "voice_list": [
+        {
+          "name": "7ea1432fcadf8b9c403279f93221b8e1",
+          "path": "scum/Noooo_這一切都是謊言_我只是為了欺騙你們而說的.mp3",
+          "description": {
+            "zh": "Noooo_這一切都是謊言_我只是為了欺騙你們而說的"
+          }
+        },
         {
           "name": "c7cfef777e9777d3b82411d44b5d6d07",
           "path": "scum/別擔心寶貝.mp3",
@@ -902,24 +958,17 @@
           }
         },
         {
-          "name": "7db7485c48ce025124ed7a0f9143963e",
-          "path": "smile/爆笑7mp3.mp3",
+          "name": "8bd0cac4cc67624e18c5bf24795d2e74",
+          "path": "smile/爆笑7.mp3",
           "description": {
             "zh": "爆笑7"
           }
         },
         {
-          "name": "8bd0cac4cc67624e18c5bf24795d2e74",
+          "name": "decc20b01d7068f4f749d393bb5cdb7a",
           "path": "smile/爆笑8.mp3",
           "description": {
             "zh": "爆笑8"
-          }
-        },
-        {
-          "name": "decc20b01d7068f4f749d393bb5cdb7a",
-          "path": "smile/爆笑9.mp3",
-          "description": {
-            "zh": "爆笑9"
           }
         }
       ]
@@ -931,7 +980,7 @@
       },
       "voice_list": [
         {
-          "name": "5d67ec0f5561db102df650da7e8c603a",
+          "name": "dcb31f40300b16b145e6f34be2434106",
           "path": "taiyi/乾蝦乾蝦.mp3",
           "description": {
             "zh": "乾蝦乾蝦"
