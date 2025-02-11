@@ -292,7 +292,7 @@
           "name": "150f3a7b9ce88e0cbcb31a7e0b69bd72",
           "path": "fuck/租咪hoyo.mp3",
           "description": {
-            "zh": "租咪hoyo"
+            "zh": "hoyo"
           }
         },
         {
@@ -360,28 +360,28 @@
           }
         },
         {
-          "name": "1448193fd9abac7023f28aa49f8d87d0",
+          "name": "b77dbf5b2ee409b3dabb45c44015012f",
           "path": "fuli/租咪飛吻.mp3",
           "description": {
             "zh": "租咪飛吻"
           }
         },
         {
-          "name": "6bd428321f7b08d7d6a5a0b4935e3d7f",
+          "name": "21dffea7b64217d75a7ace83f9fb8343",
           "path": "fuli/笨蛋吵什麼不要吵(日文).mp3",
           "description": {
             "zh": "笨蛋吵什麼不要吵(日)"
           }
         },
         {
-          "name": "cf291e0977f96fcc75ceabc9551ead3d",
+          "name": "db16057af207f7481c2e31fb916402d0",
           "path": "fuli/老公天下第一.mp3",
           "description": {
             "zh": "老公天下第一"
           }
         },
         {
-          "name": "f249e6db6e6d4e27ffd25dd1b4866e4d",
+          "name": "6478d87949b7db9487831bd4e5942f3c",
           "path": "fuli/謝謝你那麼用心寶貝.mp3",
           "description": {
             "zh": "謝謝你那麼用心寶貝"
@@ -414,6 +414,49 @@
           "path": "grandmother/阿嬤嘴巴閉不起來啦_Vocal.mp3",
           "description": {
             "zh": "阿嬤嘴巴閉不起來啦"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "lines",
+      "group_description": {
+        "zh": "台詞"
+      },
+      "voice_list": [
+        {
+          "name": "a8ac86464993c5bd0e7e7e8c11dc6253",
+          "path": "lines/你以為你能綁架我嗎_我就不念_怎麼了.mp3",
+          "description": {
+            "zh": "你以為你能綁架我嗎 我就不念 怎麼了"
+          }
+        },
+        {
+          "name": "5867c807e20110e51e3f1e990108c60a",
+          "path": "lines/你想要我用什麼身分陪你.mp3",
+          "description": {
+            "zh": "你想要我用什麼身分陪你"
+          }
+        },
+        {
+          "name": "5cd956deb1ccddd9bf15ebb654576ea7",
+          "path": "lines/再見_有緣再會.mp3",
+          "description": {
+            "zh": "再見 有緣再會"
+          }
+        },
+        {
+          "name": "35e9298ad08867799033ac2b98a5d309",
+          "path": "lines/抓到你囉.mp3",
+          "description": {
+            "zh": "抓到你囉"
+          }
+        },
+        {
+          "name": "7b6768caae29beaaa5f36ffd7ae5a53e",
+          "path": "lines/真是有趣的人呢.mp3",
+          "description": {
+            "zh": "真是有趣的人呢"
           }
         }
       ]
@@ -547,6 +590,13 @@
       },
       "voice_list": [
         {
+          "name": "146f87241dd1dab94d892b8d8fdd2c40",
+          "path": "mygo/我愛慕虛榮.mp3",
+          "description": {
+            "zh": "我愛慕虛榮"
+          }
+        },
+        {
           "name": "0cc7943a25c5d786da944e6c458c31e5",
           "path": "mygo/是又怎樣.mp3",
           "description": {
@@ -569,9 +619,16 @@
         },
         {
           "name": "c58038dafa454e84b54ea22de8e89662",
-          "path": "mygo/真是高高在上呢_Vocal.mp3",
+          "path": "mygo/真是高高在上呢.mp3",
           "description": {
             "zh": "真是高高在上呢"
+          }
+        },
+        {
+          "name": "9dd88847ef0051165246302670767280",
+          "path": "mygo/還真是高高在上呢.mp3",
+          "description": {
+            "zh": "還真是高高在上呢"
           }
         }
       ]
@@ -739,6 +796,13 @@
           }
         },
         {
+          "name": "1b3beb3ef81868f03fe222fca28d18b6",
+          "path": "others/他揍我.mp3",
+          "description": {
+            "zh": "他揍我"
+          }
+        },
+        {
           "name": "612aa6faffa75921b4ae77018a43cbd4",
           "path": "others/你怎麼這麼棒(日).mp3",
           "description": {
@@ -795,6 +859,13 @@
           }
         },
         {
+          "name": "3022bb6870ffe2a19ab1d8ee28b78d5f",
+          "path": "others/氣勢贏了就是贏了.mp3",
+          "description": {
+            "zh": "氣勢贏了就是贏了"
+          }
+        },
+        {
           "name": "68f99b9974bd1846ee6407de6df39f8b",
           "path": "others/租咪討厭拉真是的呆笑.mp3",
           "description": {
@@ -848,7 +919,7 @@
           "name": "7ea1432fcadf8b9c403279f93221b8e1",
           "path": "scum/Noooo_這一切都是謊言_我只是為了欺騙你們而說的.mp3",
           "description": {
-            "zh": "Noooo_這一切都是謊言_我只是為了欺騙你們而說的"
+            "zh": "No 這一切都是謊言 我只是為了欺騙你們而說的"
           }
         },
         {
